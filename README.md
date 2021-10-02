@@ -12,7 +12,7 @@
   ```shell
     Nama : <Nama> 
     Jurusan : <Jurusan>
-    Alasan ingin masuk GDSC : <Alasan>
+    Alasan ingin masuk GDSC : <Alasan> Tes
   ```
 
   <li> Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam file markdown bernama Identitas.md</li>
